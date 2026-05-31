@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════════════════
+    LISTA ALFABÉTICA DE COMANDOS - RUSTPLUSPLUS
+═══════════════════════════════════════════════════════════════════
+
+PREFIJO: !
+
+═══════════════════════════════════════════════════════════════════
+
+!afk
+!alive [jugador]
+!cargo
+!chinook
+!connection [jugador]
+!connections
+!craft <item> [cantidad]
+!death [jugador]
+!deaths
+!decay [item] [hp]
+!despawn [objeto]
+!events [cantidad] [tipo]
+!heli
+!large
+!leader [jugador]
+!marker add <nombre>
+!marker remove <id>
+!marker [nombre]
+!markers
+!market list
+!market search <tipo> <item>
+!market sub <tipo> <item>
+!market unsub <tipo> <item>
+!mute
+!note add <texto>
+!note remove <id>
+!notes
+!offline
+!online
+!player [jugador]
+!players
+!pop
+!prox [jugador]
+!recycle <item> [cantidad]
+!research <item>
+!send <usuario> <mensaje>
+!small
+!stack [item]
+!steamid [jugador]
+!team
+!time
+!timer add <tiempo> <texto>
+!timer remove <id>
+!timers
+!tr <código-idioma> <texto>
+!trf <código-desde> <código-hacia> <texto>
+!tts <texto>
+!unmute
+!upkeep
+!uptime
+!vendor
+!wipe
+
+═══════════════════════════════════════════════════════════════════
+TOTAL: 38+ COMANDOS PRINCIPALES
+═══════════════════════════════════════════════════════════════════
+
+NOTAS:
+- [parámetro] = Opcional
+- <parámetro> = Obligatorio
+- El prefijo puede variar según configuración del servidor
+- Usa /help en Discord para confirmación
+
+═══════════════════════════════════════════════════════════════════
