@@ -27,7 +27,8 @@ A NodeJS Discord Bot that uses the [rustplus.js](https://github.com/liamcottle/r
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/MiniDelTuzo/RUST-.git
+git clone https://github.com/MiniDelTuzo/rustplusplus
+.git
 cd rustplusplus
 
 # 2. Ejecutar setup automático
